@@ -10,7 +10,7 @@ This repository contains the **frontend design** for our project **Expense Manag
 ## 🎨 Frontend (Figma)
 The complete UI/UX design for the application is created in Figma.  
 You can view the design here:  
-👉 [Open Figma Design](https://www.figma.com/make/w5aTPYXb0q5fOrZLhFCbAY/Website-Builder?node-id=0-1&t=LH9CVxFqIboF8xbp-1)
+👉 [Open Figma Design](https://www.figma.com/make/w5aTPYXb0q5fOrZLhFCbAY/Website-Builder?node-id=0-1&p=f&t=726Qp0nb7HcEjgrH-0&fullscreen=1)
 
 ---
 
