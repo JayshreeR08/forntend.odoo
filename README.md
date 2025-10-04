@@ -7,13 +7,6 @@ This repository contains the **frontend design** for our project **Expense Manag
 
 ---
 
-## 🎨 Frontend (Figma)
-The complete UI/UX design for the application is created in Figma.  
-You can view the design here:  
-👉 [Open Figma Design](https://www.figma.com/make/w5aTPYXb0q5fOrZLhFCbAY/Website-Builder?node-id=0-1&p=f&t=726Qp0nb7HcEjgrH-0&fullscreen=1)
-
----
-
 ## 🧾 About the Project
 The **Expense Management System** is built to manage and track a company’s employee expense records efficiently.  
 - Employees can **view and access** their expense details.  
